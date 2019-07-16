@@ -1,0 +1,8 @@
+{ 
+    "title": "Employee Management",
+    "sidebar": "Home | Employee manager | Log out",
+    "buttonEmployee": "Add | Edit | Delete",
+    "employeeInfomation": "Employee Infomation",
+    "gender" : "Male | Female",
+    "buttonFormEmployee" : "Cancel | Clear | Save"
+}

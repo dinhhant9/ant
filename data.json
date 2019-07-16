@@ -1,0 +1,53 @@
+{
+  "employees": [
+    {
+      "name": "dđ",
+      "gender": "Male",
+      "birthday": "1562063381353",
+      "urlAvatar": "http://hanpro.ga/images/profile-1-250x250.jpg",
+      "id": 13
+    },
+    {
+      "name": "dđ",
+      "gender": "Female",
+      "birthday": "1562668766330",
+      "urlAvatar": "http://hanpro.ga/images/7.jpg",
+      "id": 14
+    },
+    {
+      "name": "dd",
+      "gender": "Female",
+      "birthday": "1562583288437",
+      "urlAvatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
+      "id": 19
+    },
+    {
+      "name": "xx",
+      "gender": "Female",
+      "birthday": "1562065388927",
+      "urlAvatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
+      "id": 20
+    },
+    {
+      "name": "cd",
+      "gender": "Female",
+      "birthday": "1562152153473",
+      "urlAvatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
+      "id": 21
+    }
+  ],
+  "users": [
+    {
+      "username": "admin",
+      "password": "123"
+    },
+    {
+      "username": "handaica",
+      "password": "123"
+    },
+    {
+      "username": "hang",
+      "password": "123"
+    }
+  ]
+}

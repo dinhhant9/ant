@@ -1,0 +1,8 @@
+{ 
+    "title": "Quản lý nhân sự",
+    "sidebar": "Trang chủ | Quản lý nhân sự | Đăng xuất",
+    "buttonEmployee": "Thêm | Sửa | Xoá",
+    "employeeInfomation": "Thông tin nhân viên",
+    "gender" : "Nam | Nữ",
+    "buttonFormEmployee" : "Huỷ | Xoá trắng | Lưu"
+}
